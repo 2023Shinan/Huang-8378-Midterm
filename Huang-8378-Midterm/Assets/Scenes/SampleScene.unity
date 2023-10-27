@@ -7846,7 +7846,7 @@ GameObject:
   - component: {fileID: 1041918223}
   m_Layer: 0
   m_Name: Boudler
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18610,7 +18610,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2495069881271658978, guid: 79fa76303b3deab4e9bf4c8c66519844, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2495069881271658978, guid: 79fa76303b3deab4e9bf4c8c66519844, type: 3}
       propertyPath: m_LocalRotation.w
